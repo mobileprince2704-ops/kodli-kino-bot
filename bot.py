@@ -12,7 +12,7 @@ Ishga tushirish:
 Muhim:
 1. TOKEN va ADMIN_ID qiymatlarini kiriting.
 2. REQUIRED_CHANNELS ichiga kanal username'larini yozing:
-  "@Kinofilm_on".
+   "@Kinofilm_on".
 3. Bot majburiy obuna kanallarida administrator bo'lishi kerak.
 """
 
