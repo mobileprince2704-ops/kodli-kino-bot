@@ -47,7 +47,7 @@ from aiogram.types import (
 # ASOSIY SOZLAMALAR — shu yerga o'zingizning qiymatlaringizni yozing
 # ============================================================
 TOKEN = os.getenv("BOT_TOKEN", "8482208866:AAGK1r11SeZ8Vs4xNHCZv22ACkatvoBB5Pc")
-ADMIN_ID = int(os.getenv("5469349844", "0"))
+ADMIN_ID = int(os.getenv("5469349844", "5469349844"))
 
 # Kanal username'i @ bilan yoziladi. Masalan: ["@mening_kanalim"]
 # Admin panel orqali keyinchalik o'zgartirish mumkin.
